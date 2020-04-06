@@ -1,7 +1,7 @@
 <view class="container">
     <!-- 地区选择器 -->
     <picker mode="region" value="" bindchange="changeCity">
-        <view>{{region}}</view>
+        <view>当前城市:{{province}},{{city}}</view>
     </picker>
     <!-- 文本区域 -->
     <text>{{now.tmp}}°C {{now.cond_txt}}</text>

@@ -8,5 +8,6 @@
     "navigationBarTitleText": "天气",
     "navigationBarTextStyle": "black"
   },
+
   "sitemapLocation": "sitemap.json"
 }
